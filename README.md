@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/sectan/pipelines-java/_apis/build/status/Sectan.pipelines-java?branchName=master)](https://dev.azure.com/sectan/pipelines-java/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
